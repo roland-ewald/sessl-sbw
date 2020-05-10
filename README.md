@@ -1,5 +1,4 @@
-SESSL: Simulation Experiment Specification via a Scala Layer
-============================================================
+## SESSL: Simulation Experiment Specification via a Scala Layer
 
 Development requirements: 
 - Scala 2.10.2 (http://scala-lang.org)
